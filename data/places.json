@@ -1,0 +1,230 @@
+{
+  "places": [
+    {
+      "id": "paris",
+      "name": "Eiffel Tower, Paris",
+      "lat": 48.8583,
+      "lng": 2.2945,
+      "memories": [
+        {
+          "student": "Ana",
+          "type": "text",
+          "content": "We visited the Eiffel Tower at sunset. The view from the top was breathtaking — you could see the whole city!"
+        },
+        {
+          "student": "Dan",
+          "type": "photo",
+          "file": "eiffel_tower.jpg",
+          "caption": "The Eiffel Tower from the Champ de Mars"
+        },
+        {
+          "student": "Ioana",
+          "type": "video",
+          "file": "paris_1898.webm",
+          "caption": "Street life on the Champs-Élysées — historic footage from 1898!"
+        }
+      ]
+    },
+    {
+      "id": "rome",
+      "name": "Colosseum, Rome",
+      "lat": 41.8902,
+      "lng": 12.4922,
+      "memories": [
+        {
+          "student": "Maria",
+          "type": "text",
+          "content": "The Colosseum was much bigger than I expected. We could almost imagine the gladiators fighting inside!"
+        },
+        {
+          "student": "Andrei",
+          "type": "photo",
+          "file": "colosseum.jpg",
+          "caption": "The Colosseum on a clear autumn day"
+        },
+        {
+          "student": "Radu",
+          "type": "video",
+          "file": "rome_snow.webm",
+          "caption": "A rare snowy morning in Rome — magical!"
+        }
+      ]
+    },
+    {
+      "id": "barcelona",
+      "name": "Sagrada Família, Barcelona",
+      "lat": 41.4037,
+      "lng": 2.1735,
+      "memories": [
+        {
+          "student": "Elena",
+          "type": "text",
+          "content": "La Sagrada Família was unlike anything I had ever seen. Gaudí was a true genius — every detail tells a story."
+        },
+        {
+          "student": "Mihai",
+          "type": "photo",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Barcelona_from_Sagrada_Familia_(2).JPG/1280px-Barcelona_from_Sagrada_Familia_(2).JPG",
+          "caption": "View over Barcelona from the top of the Sagrada Família"
+        },
+        {
+          "student": "Cristina",
+          "type": "youtube",
+          "videoId": "78cWSG2m3fw",
+          "caption": "Exploring the Sagrada Família"
+        }
+      ]
+    },
+    {
+      "id": "athens",
+      "name": "Acropolis, Athens",
+      "lat": 37.9708,
+      "lng": 23.7261,
+      "memories": [
+        {
+          "student": "Vlad",
+          "type": "text",
+          "content": "Walking up to the Acropolis in the heat was worth every step. Standing next to the Parthenon felt like being in a history book."
+        },
+        {
+          "student": "Sofia",
+          "type": "photo",
+          "file": "acropolis.jpg",
+          "caption": "The Parthenon up close"
+        },
+        {
+          "student": "Vlad",
+          "type": "youtube",
+          "videoId": "ve-ntVjNH7c",
+          "caption": "A tour of the Acropolis"
+        }
+      ]
+    },
+    {
+      "id": "neuschwanstein",
+      "name": "Neuschwanstein Castle, Bavaria",
+      "lat": 47.5577,
+      "lng": 10.7496,
+      "memories": [
+        {
+          "student": "Bianca",
+          "type": "text",
+          "content": "It looked exactly like a Disney castle! We hiked up through the forest and the view from the bridge was magical."
+        },
+        {
+          "student": "Alex",
+          "type": "photo",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Schloss_Neuschwanstein_2013.jpg",
+          "caption": "Neuschwanstein from the Marienbrücke bridge"
+        }
+      ]
+    },
+    {
+      "id": "prague",
+      "name": "Old Town Square, Prague",
+      "lat": 50.0857,
+      "lng": 14.4195,
+      "memories": [
+        {
+          "student": "Tudor",
+          "type": "text",
+          "content": "The Astronomical Clock striking the hour drew a huge crowd. Prague feels like a fairy tale city — cobblestones everywhere!"
+        },
+        {
+          "student": "Anca",
+          "type": "photo",
+          "file": "prague.jpg",
+          "caption": "The Old Town Square with the Tyn Church in the background"
+        }
+      ]
+    },
+    {
+      "id": "amsterdam",
+      "name": "Amsterdam Canals",
+      "lat": 52.3740,
+      "lng": 4.8897,
+      "memories": [
+        {
+          "student": "Daria",
+          "type": "text",
+          "content": "We rented bikes and cycled along the canals all morning. The tall narrow houses leaning over the water are so charming!"
+        },
+        {
+          "student": "Paul",
+          "type": "photo",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Amsterdam_Canal.jpg",
+          "caption": "Houseboats and bicycles along the canal"
+        }
+      ]
+    },
+    {
+      "id": "santorini",
+      "name": "Santorini, Greece",
+      "lat": 36.3932,
+      "lng": 25.4615,
+      "memories": [
+        {
+          "student": "Larisa",
+          "type": "text",
+          "content": "Oia at sunset was the most beautiful thing I have ever seen. The white houses and blue domes against the orange sky — unreal."
+        },
+        {
+          "student": "Larisa",
+          "type": "photo",
+          "file": "santorini.jpg",
+          "caption": "The famous blue domes of Oia"
+        }
+      ]
+    },
+    {
+      "id": "venice",
+      "name": "Grand Canal, Venice",
+      "lat": 45.4353,
+      "lng": 12.3265,
+      "memories": [
+        {
+          "student": "Crina",
+          "type": "text",
+          "content": "A gondola ride at night along the Grand Canal was magical. No cars, just water and music echoing off old stone walls."
+        },
+        {
+          "student": "Bogdan",
+          "type": "photo",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Venice_-_The_Grand_Canal.jpg",
+          "caption": "The Grand Canal with gondolas"
+        },
+        {
+          "student": "Crina",
+          "type": "video",
+          "file": "venice_gondolas.webm",
+          "caption": "Gondolas on the Grand Canal"
+        }
+      ]
+    },
+    {
+      "id": "dubrovnik",
+      "name": "Old Town, Dubrovnik",
+      "lat": 42.6403,
+      "lng": 18.0923,
+      "memories": [
+        {
+          "student": "Razvan",
+          "type": "text",
+          "content": "Walking the city walls around Dubrovnik with the Adriatic sparkling below was incredible. Recognizable from Game of Thrones!"
+        },
+        {
+          "student": "Razvan",
+          "type": "photo",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Dubrovnik%2C_view_on_Old_town_from_Minceta_tower%2C_Croatia.JPG",
+          "caption": "Dubrovnik's orange rooftops seen from the city walls"
+        },
+        {
+          "student": "Mara",
+          "type": "youtube",
+          "videoId": "w9byOKqdX94",
+          "caption": "Walking the walls of Dubrovnik"
+        }
+      ]
+    }
+  ]
+}
